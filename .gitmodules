@@ -1,3 +1,6 @@
 [submodule "main"]
 	path = main
 	url = https://github.com/UCB-w261/main.git
+[submodule "w261-sp22-finalproject-team-t14"]
+	path = w261-sp22-finalproject-team-t14
+	url = https://github.com/UCB-w261/w261-sp22-finalproject-team-t14.git
