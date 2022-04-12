@@ -4,3 +4,6 @@
 [submodule "w261-sp22-finalproject-team-t14"]
 	path = w261-sp22-finalproject-team-t14
 	url = https://github.com/UCB-w261/w261-sp22-finalproject-team-t14.git
+[submodule "w261-s22-jagannathanl"]
+	path = w261-s22-jagannathanl
+	url = https://github.com/UCB-w261/w261-s22-jagannathanl.git
